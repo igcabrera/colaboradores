@@ -1,0 +1,33 @@
+header {
+  background-color: black;
+  color: whitesmoke;
+  padding: 30px;
+  text-align: center;
+}
+header h1 {
+  font-size: 2rem;
+}
+.buscador-contain {
+  text-align: center;
+  padding: 10px 100px 40px 100px;
+}
+.buscador-contain input {
+  width: 100%;
+  padding: 15px;
+}
+
+.p-50 {
+  padding: 0px 50px;
+}
+.lista li {
+  padding: 15px;
+}
+.form-group input, button {
+  margin: 10px;
+}
+.boton {
+  width: 100%;
+}
+h1, h3 {
+  padding: 20px;
+}
