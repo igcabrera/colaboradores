@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/colaboradores/static/css/main.1bcc64e7.css",
+    "main.js": "/colaboradores/static/js/main.ea745105.js",
+    "index.html": "/colaboradores/index.html",
+    "main.1bcc64e7.css.map": "/colaboradores/static/css/main.1bcc64e7.css.map",
+    "main.ea745105.js.map": "/colaboradores/static/js/main.ea745105.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1bcc64e7.css",
+    "static/js/main.ea745105.js"
+  ]
+}
